@@ -1,0 +1,5 @@
+.vs
+SuperHero.UI/.vscode
+SuperHeroAPI/SuperHeroAPI/bin
+SuperHeroAPI/SuperHeroAPI/obj
+SuperHeroAPI/SuperHeroAPI/SuperHeroAPI.csproj.user
